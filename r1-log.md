@@ -1,10 +1,18 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 1 - Mark McGuire
 
-The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
+Restarted on Monday, June 29, 2020 with new log of my #100DaysOfCode challenge.
 
 ## Log
 
-### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
+### R1D1
+
+- Visited Alex Kallaway's GitHub repo to fork https://github.com/Kallaway/100-days-of-code and restart my 100 days of code challenge
+- Created branch to start tracking and making my own changes to this fork
+- Checked out other forks to get an idea of what might work for me
+  - https://github.com/kallaway/100-days-of-code/network/members
+- Resumed progress with Skillcrush (SKC)
+- Reviewed SKC Slack community for support solution
+- Reviewed project and applied solution
+- Time spent: 80 minutes
 
 ### R1D2
